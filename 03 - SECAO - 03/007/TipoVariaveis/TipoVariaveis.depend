@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620858880 source:/home/soul/LinguagemC-Gratuito/003 - SECAO - 03/007/TipoVariaveis/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
