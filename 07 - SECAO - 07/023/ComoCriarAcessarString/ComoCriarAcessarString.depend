@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621113768 source:/home/soul/LinguagemC-Gratuito/07 - SECAO - 07/023/ComoCriarAcessarString/main.c
+	<stdio.h>
+	<stdlib.h>
+

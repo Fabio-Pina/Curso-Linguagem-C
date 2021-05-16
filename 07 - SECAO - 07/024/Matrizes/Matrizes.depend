@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621117774 source:/home/soul/LinguagemC-Gratuito/07 - SECAO - 07/024/Matrizes/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+
