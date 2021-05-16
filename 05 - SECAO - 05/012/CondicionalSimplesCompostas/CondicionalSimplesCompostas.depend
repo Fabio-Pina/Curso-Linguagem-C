@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620903467 source:/home/soul/LinguagemC-Gratuito/003 - SECAO - 03/009/CondicionalSimplesCompostas/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

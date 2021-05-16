@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620920297 source:/home/soul/LinguagemC-Gratuito/005 - SECAO - 05/016/NumerosAleatorios/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
