@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621095214 source:/home/soul/LinguagemC-Gratuito/005 - SECAO - 05/020/MenusSelecoesSimples/main.c
+	<stdio.h>
+	<stdlib.h>
+
